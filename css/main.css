@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(29, 28, 28);
+    color: aliceblue;
+}
+
+.div{
+    display: inline-block;
+}
+
+nav{
+    background-color: black;
+    padding: 25px;
+
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: large;
+}
+
+.hero-text{
+    text-align: center;
+}
+
+.hero-text >h1{
+    color: red;
+}
+.sub-text{
+    color: blue;
+}
+
+.html{
+    border: 5px orangered solid;
+    margin: 8px;
+    width: 350px;
+}
+.css{
+    border: 5px cornflowerblue solid;
+    margin: 8px;
+    width: 350px;
+}
+
+.js{
+    border: 5px yellow solid;
+    margin: 8px;
+    width: 350px;
+}
+
+
+form{
+    background-color: rgb(127, 185, 255);
+    color: black;
+    width: max-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 25px;
+    border-radius: 25px;
+
+
+}
